@@ -25,4 +25,4 @@
     </a>
  
 </p>
- https://crisel8a.github.io/Pagina-con-ChatGPT/
+[Pagina-con-ChatGPT/](https://crisel8a.github.io/Portafolio-Personal/)
