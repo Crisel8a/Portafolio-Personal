@@ -1,8 +1,7 @@
-
+ https://crisel8a.github.io/Pagina-con-ChatGPT/
 <h1 align="center">
   <a href="#">
     Portafolio Personal 
-    https://crisel8a.github.io/Pagina-con-ChatGPT/
   </a>
 </h1>
 
